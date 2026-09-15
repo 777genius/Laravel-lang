@@ -136,3 +136,5 @@ In `passwords` file [#323](https://github.com/caouecs/laravel-lang/issues/323) :
 
     "sent" => "We have e-mailed your password reset link!"
     "reset" => "Your password has been reset!"
+
+<!-- reviewrouter hosted-pool e2e probe 2026-09-15 -->
